@@ -1,0 +1,30 @@
+{
+  "name": "angular-bower-to-cdn",
+  "version": "0.0.1",
+  "description": " Substitute your local bower libraries with cdnjs one's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/terraqout/angular-bower-to-cdnjs.git"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "cdnjs": "^0.3.2",
+    "minify": "^1.4.22",
+    "ramda": "^0.18.0"
+  },
+  "keywords": [
+    "angular",
+    "bower",
+    "cdnjs"
+  ],
+  "author": "Slava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terraqout/angular-bower-to-cdnjs/issues"
+  },
+  "homepage": "https://github.com/terraqout/angular-bower-to-cdnjs#readme"
+}
