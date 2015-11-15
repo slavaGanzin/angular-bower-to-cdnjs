@@ -1,6 +1,6 @@
 {
   "name": "angular-bower-to-cdn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": " Substitute your local bower libraries with cdnjs one's",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,9 @@
     "bower",
     "cdnjs"
   ],
+  "bin": {
+    "bower2cdn": "index.js"
+  },
   "author": "Slava",
   "license": "ISC",
   "bugs": {

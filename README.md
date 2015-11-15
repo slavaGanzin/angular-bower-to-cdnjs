@@ -1,4 +1,6 @@
-#Pile of shitty code that do:
+Exec: ```node_modules/.bin/bower2cdn```
+
+#Pile of shitty code that:
 1. Read bower.rc
 2. Try to find your dependencies on cdnjs.com
 3. Substitute bower_components links with cdnjs links in app/index.html
